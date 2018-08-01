@@ -1525,6 +1525,10 @@
         <layout>myobj__c-myobj Layout</layout>
     </layoutAssignments>
     <pageAccesses>
+        <apexPage>helloworld</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
+    <pageAccesses>
         <apexPage>test</apexPage>
         <enabled>false</enabled>
     </pageAccesses>

@@ -1741,6 +1741,10 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
+        <apexPage>helloworld</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <pageAccesses>
         <apexPage>test</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
