@@ -5,7 +5,7 @@
         <sf:deploy username="${sf1.username}" 
                      password="${sf1.password}" 
                      serverurl="${sf1.serverurl}" 
-                     deployRoot="src"
+                     deployRoot="codepkg"
             ignoreWarnings="true"
             singlePackage="true"
             purgeOnDelete="true" />
