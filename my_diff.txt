@@ -1,5 +1,0 @@
-src/layouts/Account-Account %28Marketing%29 Layout.layout
-src/layouts/Account-Account %28Sales%29 Layout.layout
-src/layouts/Account-Account %28Support%29 Layout.layout
-src/layouts/Account-Account Layout.layout
-src/objects/Account.object
