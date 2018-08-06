@@ -11,10 +11,5 @@
     <members>Account</members>
  <name>Settings</name>
   </types>
-
- <types>
-    <members>Account</members>
-<name>TopicsForObjects</name>
-  </types>
     <version>36.0</version>
 </Package>
