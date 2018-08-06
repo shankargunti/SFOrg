@@ -1,0 +1,13 @@
+<project name="ownDev" default="deploy" basedir="." xmlns:sf="antlib:com.salesforce"  >
+    <property file="build.properties"/>
+     <property environment="env"/>
+ <target name="deploy">
+        <sf:deploy username="${sf.username}" 
+                     password="${sf.password}" 
+                     serverurl="${sf.serverurl}" 
+                     deployRoot="src"
+            ignoreWarnings="true"
+            singlePackage="true"
+            purgeOnDelete="true" />
+    </target>
+ </project> 
