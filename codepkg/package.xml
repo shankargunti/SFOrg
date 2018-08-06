@@ -4,5 +4,9 @@
         <members>Democ</members>
         <name>ApexClass</name>
     </types>
+<types>
+    <members>Account.TestingForDeployment__c</members>
+    <name>CustomField</name>
+</types>
     <version>43.0</version>
 </Package>
