@@ -467,6 +467,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>TestingForDeployment2__c</fullName>
+        <externalId>false</externalId>
+        <label>TestingForDeployment2</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TestingForDeployment__c</fullName>
         <externalId>false</externalId>
         <label>TestingForDeployment</label>
